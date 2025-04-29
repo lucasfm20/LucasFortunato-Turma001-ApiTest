@@ -1,0 +1,12 @@
+{
+  "novoItem": {
+    "name": "Teclado Mecânico",
+    "type": "Periférico",
+    "price": 450
+  },
+  "itemAtualizado": {
+    "name": "Teclado RGB Atualizado",
+    "type": "Periférico Gamer",
+    "price": 499
+  }
+}
